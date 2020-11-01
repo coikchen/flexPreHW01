@@ -1,0 +1,17 @@
+.warp{
+  width: 800px;
+  margin: 0 auto;
+}
+
+header{
+margin-bottom: 30px;
+}
+
+
+footer{
+background: gray;
+color:white;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+}
